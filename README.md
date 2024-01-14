@@ -13,6 +13,10 @@
 
 ## My Projects
 
-| React Login App | README |
+|Description | README |
 | ------ | ------ |
+| React Login App |  |
 | ![Screenshot 2023-12-06 230214](https://github.com/Lain3y/Lain3y/assets/132710326/3a64e093-3c2c-4421-bdeb-9b01ee32535e) | [https://github.com/Lain3y/react-login-app/edit/main/README.md](https://github.com/Lain3y/react-login-app/blob/main/README.md)|
+| JavaScript Addition Calculator |  |
+| ![jscalc](https://github.com/Lain3y/Lain3y/assets/132710326/9bdd8537-99df-4c2e-b24c-a15f420bb71a) | https://github.com/Lain3y/JS-addition-calculator/blob/main/README.md|
+
