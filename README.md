@@ -1,7 +1,8 @@
 # Hello Elaine here! 👋
 ## Welcome to my little corner of the internet
 
-![hwgithub (1)](https://github.com/Lain3y/Lain3y/assets/132710326/af93804f-e81d-4a3d-b955-99f22cded361)
+![helloWorldLainy](https://github.com/Lain3y/Lain3y/assets/132710326/1be1a18f-4b4e-44b1-b24c-48a7bda028e5)
+
 
 
 
