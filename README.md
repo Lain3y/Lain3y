@@ -1,6 +1,7 @@
 # Hello Elaine here! 👋
 
-![helloWorldLainy](https://github.com/Lain3y/Lain3y/assets/132710326/1be1a18f-4b4e-44b1-b24c-48a7bda028e5)
+![helloWorldLainy-fixed](https://github.com/Lain3y/Lain3y/assets/132710326/05525f7c-880f-4c49-857e-b8e3427c9d72)
+
 
 
 
