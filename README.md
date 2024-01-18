@@ -17,7 +17,7 @@
 | Language/Framework | Description |
 | ------ | ------ |
 | React |  |
-| [![React Login App](https://github.com/Lain3y/Lain3y/assets/132710326/3a64e093-3c2c-4421-bdeb-9b01ee32535e)](https://github.com/Lain3y/react-login-app/edit/main/README.md) | This React login app showcases basic React concepts, including state management and conditional rendering. It has been my starting point for learning React fundamentals. [Go to Readme](https://github.com/Lain3y/react-login-app/edit/main/README.md)|
+| [![React Login App](https://github.com/Lain3y/Lain3y/assets/132710326/3a64e093-3c2c-4421-bdeb-9b01ee32535e)](https://github.com/Lain3y/react-login-app/blob/main/README.md) | This React login app showcases basic React concepts, including state management and conditional rendering. It has been my starting point for learning React fundamentals. [Go to Readme](https://github.com/Lain3y/react-login-app/blob/main/README.md)|
 | JavaScript |  |
 | [![JavaScript Calculator](https://github.com/Lain3y/Lain3y/assets/132710326/8985d501-da85-4505-a918-80ecd8259c22)](https://github.com/Lain3y/JS-addition-calculator/blob/main/README.md) | This JavaScript Addition Calculator was a project from my Code First Girls degree coursework. It's tailored to beginners, exclusively focusing on addition operations. Featuring a clean interface with input fields for two numbers and buttons for addition and clearing, the calculator ensures straightforward usability. It's designed for easy recreation and exploration. [Go to Readme](https://github.com/Lain3y/JS-addition-calculator/blob/main/README.md)|
 | Python |  |
